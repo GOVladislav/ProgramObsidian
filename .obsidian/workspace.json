@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c2d1283734205c",
+        "id": "37e358e2a8910bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "45ee76d4e6705ae5",
+            "id": "fd9d6e07be454c2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb975ae66fb0dc51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/История.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1399fd04973a3a83",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Общие заметки.md",
+                "file": "Linux/История.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Общие заметки.md",
+                "file": "Linux/История.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Общие заметки.md"
+                "file": "Linux/История.md"
               }
             }
           }
@@ -146,13 +160,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a07040ce2d2ea3ca",
+  "active": "cb975ae66fb0dc51",
   "lastOpenFiles": [
-    "",
-    "Linux/История.md",
     "Linux/Общие заметки.md",
+    "Linux/История.md",
+    "",
     "q",
-    "2023-06-29.md",
     "2023-06-28.md",
     "Без названия.canvas",
     "Linux",
