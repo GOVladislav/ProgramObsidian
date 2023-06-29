@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01f075664d368f55",
+            "id": "e772439e702fc95c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Общие заметки.md",
+                "file": "Linux/Сетевые возможности.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Общие заметки.md",
+                "file": "Linux/Сетевые возможности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Общие заметки.md",
+                "file": "Linux/Сетевые возможности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Общие заметки.md"
+                "file": "Linux/Сетевые возможности.md"
               }
             }
           }
@@ -147,9 +147,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "01f075664d368f55",
+  "active": "e772439e702fc95c",
   "lastOpenFiles": [
-    "Linux/История.md",
-    "Linux/Общие заметки.md"
+    "Linux/Общие заметки.md",
+    "Linux/Сетевые возможности.md",
+    "Linux/История.md"
   ]
 }
