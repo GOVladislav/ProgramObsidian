@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Общие заметки.md",
+                "file": "Linux/История.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Общие заметки.md",
+                "file": "Linux/История.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Общие заметки.md",
+                "file": "Linux/История.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Общие заметки.md"
+                "file": "Linux/История.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a07040ce2d2ea3ca",
+  "active": "45ee76d4e6705ae5",
   "lastOpenFiles": [
-    "",
-    "Linux/История.md",
     "Linux/Общие заметки.md",
+    "Linux/История.md",
+    "",
     "q",
     "2023-06-29.md",
     "2023-06-28.md",
