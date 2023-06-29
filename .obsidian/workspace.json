@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "bd64f97e0069d337",
+    "id": "b409c9f2805f8efd",
     "type": "split",
     "children": [
       {
-        "id": "37e358e2a8910bcd",
+        "id": "c2e3578e1bf32e98",
         "type": "tabs",
         "children": [
           {
-            "id": "fd9d6e07be454c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/История.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb975ae66fb0dc51",
+            "id": "01f075664d368f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4d6519e84625efa8",
+    "id": "f6f8aee10ad3dba2",
     "type": "split",
     "children": [
       {
-        "id": "c5b2ca6e9a58b011",
+        "id": "9adbf176657564f8",
         "type": "tabs",
         "children": [
           {
-            "id": "a07040ce2d2ea3ca",
+            "id": "4bd10c49e47daefb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "77b53171936f8f01",
+            "id": "4f76987d65bce117",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "a6e32d0cd0e31893",
+            "id": "329c480833c36305",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,19 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "1399fd04973a3a83",
+    "id": "7a52893b736e0eb3",
     "type": "split",
     "children": [
       {
-        "id": "38375f44ef2e113a",
+        "id": "c48da8190c2f2f92",
         "type": "tabs",
         "children": [
           {
-            "id": "29f988997a88d399",
+            "id": "ec8c199335e9926c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -111,7 +97,7 @@
             }
           },
           {
-            "id": "e6cb6879ae591132",
+            "id": "6717ec7475fed4bc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -123,7 +109,7 @@
             }
           },
           {
-            "id": "a9d1f0c43389d228",
+            "id": "2a6995093dd61241",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,7 +120,7 @@
             }
           },
           {
-            "id": "e00b65d87ae1c676",
+            "id": "9a8c396f68604814",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -147,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -160,27 +146,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-<<<<<<< HEAD
-  "active": "45ee76d4e6705ae5",
-=======
-  "active": "cb975ae66fb0dc51",
->>>>>>> 242d63e7b0f771cc8e5e14e07f3c8223984f1739
+  "active": "01f075664d368f55",
   "lastOpenFiles": [
     "Linux/Общие заметки.md",
-    "Linux/История.md",
-    "",
-    "q",
-    "2023-06-28.md",
-    "Без названия.canvas",
-    "Linux",
-    "Python",
-    "Сбор данных об обучении/Книги для обучения.md",
-    "Linux/Базовые знания.md",
-    "Linux",
-    "Сбор данных об обучении/Репозитории для обучения.md",
-    "Алгоритмы",
-    "Python",
-    "Сбор данных об обучении/Сайты для обучения.md",
-    "Сбор данных об обучении"
+    "Linux/История.md"
   ]
 }
