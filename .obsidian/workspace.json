@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2e3578e1bf32e98",
+        "id": "98a38a151971bcf1",
         "type": "tabs",
         "children": [
           {
-            "id": "e772439e702fc95c",
+            "id": "8dd4dc8b7c1193b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Сетевые возможности.md",
+                "file": "Linux/История.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7a52893b736e0eb3",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Сетевые возможности.md",
+                "file": "Linux/История.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Сетевые возможности.md",
+                "file": "Linux/История.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Сетевые возможности.md"
+                "file": "Linux/История.md"
               }
             }
           }
@@ -147,10 +146,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e772439e702fc95c",
+  "active": "8dd4dc8b7c1193b2",
   "lastOpenFiles": [
-    "Linux/Общие заметки.md",
+    "Obsidian/Инструкция к использованию.md",
     "Linux/Сетевые возможности.md",
+    "Obsidian",
+    "Linux/Общие заметки.md",
     "Linux/История.md"
   ]
 }
