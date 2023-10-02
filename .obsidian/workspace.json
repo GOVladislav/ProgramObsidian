@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/История.md",
+                "file": "Obsidian/Инструкция к использованию.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/История.md",
+                "file": "Obsidian/Инструкция к использованию.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/История.md",
+                "file": "Obsidian/Инструкция к использованию.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/История.md"
+                "file": "Obsidian/Инструкция к использованию.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "8dd4dc8b7c1193b2",
   "lastOpenFiles": [
+    "Linux/История.md",
     "Obsidian/Инструкция к использованию.md",
     "Linux/Сетевые возможности.md",
     "Obsidian",
-    "Linux/Общие заметки.md",
-    "Linux/История.md"
+    "Linux/Общие заметки.md"
   ]
 }
