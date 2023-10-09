@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Сетевые возможности.md",
+                "file": "Obsidian/Инструкция к использованию.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Сетевые возможности.md",
+                "file": "Obsidian/Инструкция к использованию.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Сетевые возможности.md",
+                "file": "Obsidian/Инструкция к использованию.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Сетевые возможности.md"
+                "file": "Obsidian/Инструкция к использованию.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4bd10c49e47daefb",
+  "active": "e772439e702fc95c",
   "lastOpenFiles": [
-    "Obsidian/Инструкция к использованию.md",
-    "Obsidian",
+    "Linux/История.md",
     "Linux/Общие заметки.md",
     "Linux/Сетевые возможности.md",
-    "Linux/История.md"
+    "Obsidian/Инструкция к использованию.md",
+    "Obsidian"
   ]
 }
